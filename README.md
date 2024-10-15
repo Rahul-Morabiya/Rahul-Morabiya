@@ -3,7 +3,7 @@
 👀 I’m interested in **Machine Learning, Deep Learning, Data Science, Web Development, and Competitive Programming**.
 
 💼 I have experience in:
-- **Research** on **Lung Cancer Detection** using **Deep Learning** and **Federated Learning** techniques like **ResNet152V2**, **FedAvg**, and more.
+- **Research** on **Lung Cancer Detection** using **Deep Learning** and **Federated Learning** techniques like **Federated Adagrad**, **Federated Average**, and more using **ResNet152V2 Model**.
 - **Software Development Intern** at **Reliance Industries Limited**, where I developed a web app using **Angular**, **Node.js**, **Express.js**, and **MSSQL** to optimize telephone asset management.
 
 💻 Technologies I work with:
