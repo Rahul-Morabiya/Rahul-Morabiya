@@ -3,7 +3,7 @@
 👀 I’m interested in **Machine Learning, Deep Learning, Data Science, Web Development, and Competitive Programming**.
 
 💼 I have experience in:
-- **Research** on **Lung Cancer Detection** using **Deep Learning** and **Federated Learning** techniques like **Federated Adagrad**, **Federated Average**, and more utilising **ResNet152V2 Model**.
+- **Research** on **Lung Cancer Detection** using **Deep Learning** and **Federated Learning** techniques like **Federated Adagrad**, **Federated Average**, and more utilizing **ResNet152V2 Model**.
 - **Software Development Intern** at **Reliance Industries Limited**, where I developed a web app using **Angular**, **Node.js**, **Express.js**, and **MSSQL** to optimize telephone asset management.
 
 💻 Technologies I work with:
@@ -24,6 +24,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+</div>
+
+### Hacktoberfest Badges:
+<div>
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Hacktoberfest Badge 1" width="150"/>
+    <span>Unique Badge ID is cm2d8hdo722830cmj2lfwn92e</span>
+</div>
+<div>
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 2" width="150"/>
+    <span>Unique Badge ID is cm1xog1w830690cmlnsjn12go</span>
 </div>
 
 ### GitHub Stats:
