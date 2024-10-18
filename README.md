@@ -26,14 +26,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
 </div>
 
-### Hacktoberfest Badges:
+### Open Source Contribution Badges:
 <div>
-    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Hacktoberfest Badge 1" width="150"/>
-    <span>Unique Badge ID is cm2d8hdo722830cmj2lfwn92e</span>
-</div>
-<div>
-    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 2" width="150"/>
-    <span>Unique Badge ID is cm1xog1w830690cmlnsjn12go</span>
+    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge Contributor (Level 1)" width="150"/>
+    <span>Unique Badge ID is cm2eaqe51173470cmiwvsp1ziq</span>
 </div>
 
 ### GitHub Stats:
