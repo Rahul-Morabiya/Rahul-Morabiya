@@ -26,11 +26,22 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
 </div>
 
-### Open Source Contribution Badges:
-<div>
-    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge Contributor (Level 1)" width="150"/>
-    <span>Unique Badge ID is cm2eaqe51173470cmiwvsp1ziq</span>
-</div>
+## 🎉 Open Source Contribution Badges:
+
+### 🌱 Hacktoberfest 2024: Level 4
+<a href="https://holopin.io/">
+    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-robe-witch-eclipse.webp" alt="Hacktoberfest 2024: Level 4" width="150"/>
+</a>
+Unique Badge ID: cm2ndp1ta247010cl4txw7h6z2
+
+
+### 🚀 GsSoc 2024 Explorer Badge
+<img src="https://private-user-images.githubusercontent.com/30715153/334789435-f3045ade-446f-46d8-a730-05f9f2ca9ecf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk3Nzk1NDMsIm5iZiI6MTcyOTc3OTI0MywicGF0aCI6Ii8zMDcxNTE1My8zMzQ3ODk0MzUtZjMwNDVhZGUtNDQ2Zi00NmQ4LWE3MzAtMDVmOWYyY2E5ZWNmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDI0VDE0MTQwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFkODMyYzZjMTUxNTY1MDRkYjJlYjhmZTA1NzljNmRiY2E2ODdiOTg1NDEyYWE0ZDQ4YzUxNzFmMjAyNmYxMzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zgHjZb1lMY22JkTbNFIrkrdds0XF1VFl0oXVhwCsums" alt="GsSoc 2024 Explorer Badge" width="150"/>
+- No. of PRs: 6 ,
+  Score: 60 ,
+  Rank: 821
+
+---
 
 ### GitHub Stats:
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-Morabiya&show_icons=true&theme=radical)
