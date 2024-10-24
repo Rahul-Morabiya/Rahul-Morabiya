@@ -28,7 +28,7 @@
 
 ## 🎉 Open Source Contribution Badges:
 
-### 🌱 Hacktoberfest 2024: Level 4
+### 🌱 Hacktoberfest 2024: Level 4 (Hacktoberfest Challenge Completed)
 <a href="https://holopin.io/">
     <img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-robe-witch-eclipse.webp" alt="Hacktoberfest 2024: Level 4" width="150"/>
 </a>
