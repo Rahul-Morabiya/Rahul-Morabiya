@@ -37,9 +37,7 @@ Unique Badge ID: cm2ndp1ta247010cl4txw7h6z2
 ### 🚀 GsSoc 2024 Explorer Badge
 <img src="https://github.com/Rahul-Morabiya/Rahul-Morabiya/blob/main/Share%20Badge%20(3).png" alt="GsSoc 2024 Explorer Badge" width="200" height="275"/>
 
-- No. of PRs: 6,  
-  Score: 60,  
-  Rank: 821
+- No. of PRs: 6, Score: 60, Rank: 821
   
 ---
 
