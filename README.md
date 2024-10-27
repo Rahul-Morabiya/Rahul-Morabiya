@@ -46,8 +46,9 @@ Unique Badge ID: cm2ndp1ta247010cl4txw7h6z2
 ### GitHub Stats:
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-Morabiya&show_icons=true&theme=radical)
 
+
 ### Socials:
-<img src="https://github.com/Rahul-Morabiya/Rahul-Morabiya/blob/main/Share%20Badge%20(3).png" alt="GsSoc 2024 Explorer Badge" width="20"/>
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45"/>](https://www.linkedin.com/in/rahul-morabiya-587746273)
 
 <!---
 Rahul-Morabiya/Rahul-Morabiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
